@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sujithraja7
-- 👀 I’m interested in ... cyber security 
+- 👀 I’m interested in ... fullstack ,machinelearning
 - 🌱 I’m currently learning ... networking and python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sujithrajar15@gmail.com 
